@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Preview</title>
+	</head>
+	<body>
+		<p><h1>My First Web Page!</h1></p>
+		<p><h2>I am learning HTML.</h2></p>
+		<p>HTML means <em>HyperText Markup Language.</em></p>
+		<p><h3>Why am I learning HTML?</h3></p>
+		<p>Because I want to know how to make websites.</p>
+		<p><h4><strong>Learning HTML online is easy</strong></h4></p>
+		<p>I can learn <strong>at my own pace!</strong></p>
+	</body>
+</html>
